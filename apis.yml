@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://ffxivcollect.com/
 common:
+  - type: DomainSecurity
+    url: security/ffxiv-collect-domain-security.yml
   - type: Website
     url: https://ffxivcollect.com/
   - type: PublicAPIsListing
