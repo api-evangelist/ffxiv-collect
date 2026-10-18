@@ -40,7 +40,8 @@ apis:
   - name: FFXIV Collect
     description: "Final Fantasy XIV data on collectables"
     humanURL: https://ffxivcollect.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
